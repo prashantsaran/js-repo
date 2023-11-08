@@ -18,4 +18,11 @@ String {'Prashant'}
 5: "a"
 6: "n"
 7: "t"
+
+we also get many methods with this string objects
 */
+
+//functions in string objects 
+
+console.log(gameName.length) //8
+console.log(gameName.toUpperCase()) //PRASHANT

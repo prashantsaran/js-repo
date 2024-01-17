@@ -26,7 +26,7 @@ console.log('accessing object using []',pythonUser["newObject"])
 
 const obj1={1:"a",2:"b"}
 const obj2={3:"a", 4:"b"}
-const obj3={...obj1,...obj2}
+const obj3={...obj1,...obj2}  //using spread operators
 console.log("final output",obj3);
 
 

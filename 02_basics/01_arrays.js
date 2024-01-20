@@ -1,6 +1,7 @@
 // array
 
-const myArr=[0,1,2,3,4,5] //can have data of different type in the same array at the same time
+const myArr=[0,1,2,3,4,5] 
+//can have data of different type in the same array at the same time
 console.log(myArr[5]);
 
 //array methods
